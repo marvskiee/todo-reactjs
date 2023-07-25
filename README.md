@@ -11,3 +11,7 @@ To install dependencies in react-client
   
 To start the reactjs project
 - run "npm run dev"
+
+Sample Account
+username: demo
+password: 123
